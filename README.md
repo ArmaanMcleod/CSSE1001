@@ -1,2 +1,2 @@
 # CSSE1001
-Some code I wrote during CSSE1001 at UQ. 
+Some projects I did during CSSE1001 at UQ. 
